@@ -1,0 +1,14 @@
+com.portfolio.JCP
+com.portfolio.JCP.Controller
+com.portfolio.JCP.Dto
+com.portfolio.JCP.Entity
+com.portfolio.JCP.Repository
+com.portfolio.JCP.Security
+com.portfolio.JCP.Security.Controller
+com.portfolio.JCP.Security.Dto
+com.portfolio.JCP.Security.Entity
+com.portfolio.JCP.Security.Enums
+com.portfolio.JCP.Security.jwt
+com.portfolio.JCP.Security.Repository
+com.portfolio.JCP.Security.Service
+com.portfolio.JCP.Service
