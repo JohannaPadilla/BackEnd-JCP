@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.portfolio.JCP.Controller;
 
 import com.portfolio.JCP.Dto.DtoExperiencia;
@@ -23,10 +19,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- *
- * @author johi7
- */
 @RestController
 @RequestMapping("/explab")
 @CrossOrigin(origins = "http://localhost:4200")

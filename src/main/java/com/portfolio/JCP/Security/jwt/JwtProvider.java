@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.portfolio.JCP.Security.jwt;
 
 import com.portfolio.JCP.Security.Entity.UsuarioPrincipal;
@@ -17,11 +13,6 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.security.core.Authentication;
 import org.springframework.stereotype.Component;
-
-/**
- *
- * @author johi7
- */
 
 @Component
 public class JwtProvider {
