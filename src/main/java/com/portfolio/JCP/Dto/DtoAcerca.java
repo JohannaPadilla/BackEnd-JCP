@@ -1,7 +1,5 @@
 package com.portfolio.JCP.Dto;
 
-import javax.validation.constraints.NotBlank;
-
 public class DtoAcerca {
     private String infoA;
     
