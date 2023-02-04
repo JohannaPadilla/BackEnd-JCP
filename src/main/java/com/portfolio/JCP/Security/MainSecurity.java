@@ -1,4 +1,4 @@
-package com.portfolio.JCP.security;
+package com.portfolio.JCP.Security;
 
 import com.portfolio.JCP.Security.Service.UserDetailsImpl;
 import com.portfolio.JCP.Security.jwt.JwtEntryPoint;
