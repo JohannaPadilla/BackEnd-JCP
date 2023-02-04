@@ -40,7 +40,7 @@ public class CCurso {
         if(sCursos.existsByCursoC(dtocur.getCursoC()))
             return new ResponseEntity (new Mensaje ("Esa cursos existe"), HttpStatus.BAD_REQUEST);
         
-        Cursos cursos = new Cursos(dtocur.getCursoC(), dtocur.getEnlaceC(), dtocur.getInfoC(), dtocur.getInfoC());
+        Cursos cursos = new Cursos(dtocur.getInstitucionC(), dtocur.getCursoC(), dtocur.getInfoC(), dtocur.getEnlaceC());
         sCursos.save(cursos);
         
         return new ResponseEntity(new Mensaje("Esperiencia agregada"), HttpStatus.OK);
