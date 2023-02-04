@@ -3,6 +3,7 @@ com.portfolio.JCP.Controller
 com.portfolio.JCP.Dto
 com.portfolio.JCP.Entity
 com.portfolio.JCP.Repository
+com.portfolio.JCP.security
 com.portfolio.JCP.Security
 com.portfolio.JCP.Security.Controller
 com.portfolio.JCP.Security.Dto
